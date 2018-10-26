@@ -10,7 +10,7 @@
 <channel>
 	<title>EnforcerZhukov</title>
 	<atom:link href="http://192.168.0.99/feed/" rel="self" type="application/rss+xml" />
-	<link>http://https://enforcerzhukov.github.io/test-static-wp-github-page/</link>
+	<link>https://enforcerzhukov.github.io/test-static-wp-github-page/</link>
 	<description>Otro sitio realizado con WordPress</description>
 	<lastBuildDate>Fri, 26 Oct 2018 17:24:42 +0000</lastBuildDate>
 	<language>es-ES</language>
@@ -19,17 +19,17 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>¡Hola mundo!</title>
-		<link>http://https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/</link>
-		<comments>http://https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/#comments</comments>
+		<link>https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/</link>
+		<comments>https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/#comments</comments>
 		<pubDate>Fri, 26 Oct 2018 17:24:42 +0000</pubDate>
 		<dc:creator><![CDATA[enforcerzhukov]]></dc:creator>
 				<category><![CDATA[Sin categoría]]></category>
 
-		<guid isPermaLink="false">http://https://enforcerzhukov.github.io/test-static-wp-github-page/?p=1</guid>
+		<guid isPermaLink="false">https://enforcerzhukov.github.io/test-static-wp-github-page/?p=1</guid>
 		<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!]]></description>
 				<content:encoded><![CDATA[<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/feed/</wfw:commentRss>
+			<wfw:commentRss>https://enforcerzhukov.github.io/test-static-wp-github-page/2018/10/26/hola-mundo/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 		</item>
 	</channel>
